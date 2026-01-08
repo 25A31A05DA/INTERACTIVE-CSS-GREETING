@@ -21,7 +21,7 @@ Instead of focusing only on complex logic, I wanted to practice **creativity and
 ---
 ## Live Demo
 🔗 **View Live:** https://25a31a05da.github.io/INTERACTIVE-CSS-GREETING/
-🔗 **GitHub Repository:** https://github.com/your-username/repo-name
+🔗 **GitHub Repository:** https://github.com/25A31A05DA
 ---
 
 ## Status
