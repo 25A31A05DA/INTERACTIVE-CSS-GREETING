@@ -19,6 +19,11 @@ The goal of this project was to explore how small CSS interactions, animations, 
 ## Why this project
 Instead of focusing only on complex logic, I wanted to practice **creativity and presentation** using CSS — showing that even simple ideas can feel special when designed well.
 
+## Live Demo
+🔗 **View Live:** https://github.com/25A31A05DA
+🔗 **GitHub Repository:** https://github.com/your-username/repo-name
+
+
 ## Status
 Completed as a learning project.  
 More interactive improvements can be added in future versions.
